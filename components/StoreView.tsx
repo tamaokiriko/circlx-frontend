@@ -67,7 +67,6 @@ const StoreView: React.FC = () => {
                 alt="CIRCLX"
                 width={150}
                 height={50}
-                className="brightness-0 invert"
               />
             </div>
           </div>

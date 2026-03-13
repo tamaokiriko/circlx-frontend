@@ -26,7 +26,6 @@ const CustomerView: React.FC = () => {
                  alt="CIRCLX"
                  width={150}
                  height={50}
-                 className="brightness-0 invert"
                />
              </div>
              <div className="space-y-4">
